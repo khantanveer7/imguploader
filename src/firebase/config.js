@@ -5,6 +5,7 @@ import "firebase/storage";;
 
 const firebaseConfig = {
     // config
+
 };
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
