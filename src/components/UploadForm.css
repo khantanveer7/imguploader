@@ -1,0 +1,21 @@
+.form__input {
+  display: inline-block;
+  width: 30%;
+  padding: 50px 0px 0px 0px;
+  height: 10px;
+  overflow: hidden;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  background: url("https://cdn1.iconfinder.com/data/icons/hawcons/32/698394-icon-130-cloud-upload-512.png")
+    center center no-repeat #dadada;
+  border-radius: 90px;
+  background-size: 40px 40px;
+}
+
+form {
+  margin: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

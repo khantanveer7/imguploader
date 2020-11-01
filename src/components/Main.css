@@ -1,0 +1,7 @@
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-style: italic;
+  font-size: x-large;
+}
